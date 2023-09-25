@@ -95,3 +95,4 @@ my_client.request(
     },
     req_id = 1234567893,
     callback = my_handler
+)

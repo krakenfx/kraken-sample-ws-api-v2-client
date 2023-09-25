@@ -122,3 +122,4 @@ my_client.subscribe_public(
     },
     req_id = 1234567890,
     callback = my_handler
+)
